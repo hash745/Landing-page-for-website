@@ -1,0 +1,23 @@
+
+.flex-all-center{ 
+   /* Ek dabba flex box banega jo tex to vertically an horizontally center mai kregi */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.btn {
+   padding: 1px 20px;
+   color: white;
+   background: var(--main-bg-color);
+   border: 3px solid white;
+   border-radius: 10px;
+   cursor: pointer;
+   margin: 20px -80px;
+}
+.my-2{
+   margin: 20px 0;
+}
+.text-center{
+   text-align: center;
+}
